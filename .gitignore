@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 虚拟环境
+venv/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 大文件 / 数据集（暂不上传）
+*.gz
+*.idx3-ubyte
+*.idx1-ubyte
+*.pth
+*.pt
+
+# 编译产物
+*.exe
+*.spec
+build/
+dist/
+
+# 第三方仓库
+skills-main/
+
+# 临时文件
+*.tmp
+*.log

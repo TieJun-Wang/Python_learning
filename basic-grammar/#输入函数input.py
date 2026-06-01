@@ -1,0 +1,9 @@
+#输入函数input
+present=input("你的梦想是什么")
+print(present,type(present))
+#高级运用
+a=int(input('请输入第一个数字'))
+b=int(input('请输入第二个数字'))
+print('请思考这两个数相加等于多少')
+c=int(input('请输入你的答案'))
+print('正确答案是',a+b,'你的答案',c==(a+b))
