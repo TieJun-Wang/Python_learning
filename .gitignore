@@ -36,6 +36,13 @@ dist/
 # 第三方仓库
 skills-main/
 
+# Cookies（含登录态，绝对不能上传）
+cookies.json
+
+# 数据库
+*.db
+*.sqlite3
+
 # 临时文件
 *.tmp
 *.log
